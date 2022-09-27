@@ -1,0 +1,2 @@
+alt + shift + a 
+con estas tres se comenta
